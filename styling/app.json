@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "navigation",
-    "slug": "navigation",
+    "name": "styling",
+    "slug": "styling",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "navigation",
+    "scheme": "styling",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
